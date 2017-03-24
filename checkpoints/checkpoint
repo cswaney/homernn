@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnn_lr=2.50.ckpt"
+all_model_checkpoint_paths: "rnn_lr=2.50.ckpt"
