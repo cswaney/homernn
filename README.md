@@ -8,3 +8,5 @@ To generate a 5000 character sample:
 cd homernn
 python test.py
 ```
+
+(Dependencies are TensorFlow, NumPy, and h5py).
